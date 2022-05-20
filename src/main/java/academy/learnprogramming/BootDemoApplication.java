@@ -1,4 +1,4 @@
-package academy.learnprogramming.bootdemo;
+package academy.learnprogramming;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
